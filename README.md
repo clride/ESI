@@ -1,4 +1,4 @@
-# ESR-Interpreter
+# ES-Interpreter
  A simple interpreter for a custom esoteric programming language.
  
 The language itself is strongly inspired by Brainf*ck, an esoteric programming language designed to have as few instructions as possible.
