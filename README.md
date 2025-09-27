@@ -1,27 +1,20 @@
 # ESR-Interpreter
 
- A simple interpreter for a custom esoteric (joke) programming language.
-
-**ESR** = `Esoteric Software Runtime`
-**ESI** for short.
-
-The language itself is an extension of [Brainf***](https://en.wikipedia.org/wiki/Brainfuck), an esoteric programming language developed as a joke, designed to have as few instructions as possible while still being turing complete.
-I wanted to expand the instruction set to be able to create simple console apps with it, and decided to create my own interpreter.
-
-As implied by the name, the language isn't very practical for real world use, but for me it was a nice learning project.
-
-To see how to use it, look at the [Documentation](./Documentation) directory.
+An interpreter for a custom esoteric programming language called **ES**.  
+The interpreter is referred to as **ESRI** (*Esoteric Software Runtime Interpreter*) or **ESI** for short.
 
 ---
 
-Features:
+## About the Language
 
-- Several new useful instructions
+**ES** is based on [Brainf***](https://en.wikipedia.org/wiki/Brainfuck), an esoteric language created by Urban Müller in 1993 with only eight instructions but still Turing complete. 
 
-- Dedicated second cell array that functions like a `framebuffer`
+I extended the instruction set to support both a normal memory array and a framebuffer for simple console graphics. The goal was not practicality, but to explore **language design**, **memory management**, and **writing an interpreter**.
+
+To see how to use it and how it differs from the original Brainf***, look at the [Documentation](./Documentation) directory.
 
 ---
 
-**Notices**
+**Environment**
 
 This project was created using `.NET 8.0`.
