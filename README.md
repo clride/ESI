@@ -8,7 +8,7 @@ The interpreter is referred to as **ESRI** (*Esoteric Software Runtime Interpret
 
 **ES** is based on [Brainf***](https://en.wikipedia.org/wiki/Brainfuck), an esoteric language created by Urban Müller in 1993 with only eight instructions but still Turing complete. 
 
-I extended the instruction set to support both a normal memory array and a framebuffer for simple console graphics. The goal was not practicality, but to explore **language design**, **memory management**, and **writing an interpreter**.
+I extended the instruction set to support both a normal memory array and a framebuffer for simple console graphics. The goal was not practicality, but to explore language design, memory management, and writing an interpreter.
 
 To see how to use it and how it differs from the original Brainf***, look at the [Documentation](./Documentation) directory.
 
