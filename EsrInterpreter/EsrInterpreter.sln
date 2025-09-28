@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsrInterpreter", "EsrInterpreter\EsrInterpreter.csproj", "{12FA6ECA-D87F-44FB-96A8-4D8932A5E1FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsriTests", "EsriTests\EsriTests.csproj", "{8474E4AD-8880-468E-B572-570A7C9E682F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{12FA6ECA-D87F-44FB-96A8-4D8932A5E1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12FA6ECA-D87F-44FB-96A8-4D8932A5E1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12FA6ECA-D87F-44FB-96A8-4D8932A5E1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8474E4AD-8880-468E-B572-570A7C9E682F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8474E4AD-8880-468E-B572-570A7C9E682F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8474E4AD-8880-468E-B572-570A7C9E682F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8474E4AD-8880-468E-B572-570A7C9E682F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
