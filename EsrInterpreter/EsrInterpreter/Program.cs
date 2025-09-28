@@ -147,7 +147,7 @@ internal class Program
     }
 
     /// <summary>
-    /// Executes a single Brainfuck instruction.
+    /// Executes a single Brainf*** / ES instruction.
     /// </summary>
     /// <param name="instruction">Instruction character.</param>
     /// <param name="memory">1D RAM memory array.</param>
@@ -215,7 +215,7 @@ internal class Program
     /// <summary>
     /// Finds the matching bracket for a loop.
     /// </summary>
-    /// <param name="code">Brainfuck program code.</param>
+    /// <param name="code">ES program code.</param>
     /// <param name="pos">Position of the bracket to match.</param>
     /// <returns>Index of the matching bracket.</returns>
     /// <exception cref="ArgumentOutOfRangeException">Thrown if pos is outside the code.</exception>
