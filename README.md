@@ -1,7 +1,7 @@
 # ESR-Interpreter
 
 An interpreter for a custom esoteric programming language called **ES**.  
-The interpreter is referred to as **ESRI** (*Esoteric Software Runtime Interpreter*) or **ESI** for short.
+The interpreter is referred to as **ESRI** (*ES Runtime Interpreter*) or **ESI** for short.
 
 
 ## About the Language

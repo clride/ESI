@@ -8,7 +8,7 @@ internal class Program
 
         if (args.Length < 1)
         {
-            Console.WriteLine("USAGE: esri [filename.bf]");
+            Console.WriteLine("USAGE: esi [filename.bf]");
             Console.Write("Filename: ");
             fileName = Console.ReadLine();
 
